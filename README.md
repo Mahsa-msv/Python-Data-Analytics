@@ -1,1 +1,2 @@
 # Python-Data-Analytics
+This project is a comprehensive data analytics assessment that explores the impact of remote work on mental health using Python. It includes tasks like building a shopping cart system with discount features and performing in-depth analysis on a Kaggle dataset through data manipulation, statistical summaries, and insightful visualizations. The goal is to derive meaningful insights about work hours, job roles, stress levels, and access to mental health resources, while demonstrating practical skills in data analysis and Python programming.
